@@ -7,6 +7,7 @@
             "taste":"sweet"
         },
         {
+
             "id": "2",
             "type": "banana",
             "color": "yellow",
@@ -48,5 +49,48 @@
             "color": "brown",
             "taste": "sweet"
           }
+
+            "id":"2",
+            "type":"banana",
+            "color": "yellow",
+            "taste":"umami"
+        },
+        {
+            "id":"3",
+            "type":"orange",
+            "color": "orange",
+            "taste":"sour"
+        },
+        {
+            "id":"4",
+            "type":"watermelon",
+            "color": "green",
+            "taste":"sweet"
+        },
+        {
+            "id":"5",
+            "type":"lemon",
+            "color": "yellow",
+            "taste":"sour"
+        },
+        {
+            "id":"6",
+            "type":"grapefruit",
+            "color": "orange",
+            "taste":"bitter"
+        },
+        {
+            "id":"7",
+            "type":"mango",
+            "color": "orange",
+            "taste":"sweet"
+        },
+        {
+            "id":"8",
+            "type":"litchi",
+            "color": "brown",
+            "taste":"sweet"
+        }
+ newBranch
     ]
 }
